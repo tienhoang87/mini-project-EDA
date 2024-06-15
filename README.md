@@ -1,4 +1,4 @@
-# mini-project-EDA
+# mini-project-EDA Phân tích thuộc tính của áo, giá, đánh giá của người dùng đến doanh số theo từng mùa
 Phân tích thuộc tính của áo, giá, đánh giá của người dùng đến doanh số theo từng mùa
 Cho 2 tập dữ liệu: Attribute+Dataset: các thuộc tính của áo, phân khúc giá, lượng đánh giá sao rating, doanh số theo các tháng.Tôi đã khám phá dữ liệu này, làm sạch và thực hiện một số phân tích
 
